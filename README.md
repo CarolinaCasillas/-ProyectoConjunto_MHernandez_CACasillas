@@ -1,2 +1,2 @@
-# -ProyectoConjunto_MHernandez_CACasillas
+# ProyectoConjunto_MHernandez_CACasillas
 Tarea 1. Simulación Matemática
